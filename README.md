@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pawan Thakuni</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack | TypeScript | Next.js
+Full Stack Developer | React | Next.js | TypeScript | Node.js | PostgreSQL | Docker | AWS
 </h3>
 
 <p align="center">
@@ -11,17 +11,36 @@ Building modern web applications and learning scalable backend systems.
 
 ## 🚀 Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+### Frontend
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
 
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- WebSockets
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+### Databases
+- MongoDB
+- PostgreSQL
+- MySQL
+- Neon Database
 
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+- Docker
+- Nginx
+- AWS
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
 
 ## 💻 Featured Projects
 
