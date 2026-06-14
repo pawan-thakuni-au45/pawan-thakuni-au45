@@ -49,13 +49,14 @@ Real-time collaborative whiteboard using:
 - Next.js
 - TypeScript
 - WebSockets
-- Canvas API
+- Canvas
+- http
 
 ### 🎬 MovieGPT
 Movie recommendation platform using:
 - React
 - TMDB API
-- OpenAI API
+- Gemini API
 
 ### 📝 Medium Clone
 Full-stack blogging platform with:
@@ -64,23 +65,15 @@ Full-stack blogging platform with:
 - PostgreSQL
 - Prisma
 
-- ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=pawan-thakuni-au45&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=pawan-thakuni-au45)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-thakuni-au45&layout=compact)
 
 ## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/pawan-thakuni
+- LinkedIn: https://www.linkedin.com/in/pawan-thakuni-390a2324b/
+- Twitter: https://x.com/PThakuni
 - GitHub: github.com/pawan-thakuni-au45
-- Email: your-email@gmail.com
+- Email: thakunipawangmail.com
 
-PAWAN THAKUNI
-Full Stack Developer
-React • Next.js • Node.js • TypeScript
+
 
 <p align="center">
   <img src="banner.png" />
