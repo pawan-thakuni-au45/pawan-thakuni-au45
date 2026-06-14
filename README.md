@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer
 
-React • Next.js • TypeScript • Node.js • PostgreSQL • MongoDB • Docker • AWS
+ | React | Next.js | TypeScript | Node.js | PostgreSQL | Docker | AWS | Turborepo
 
 Passionate about building scalable web applications and learning modern backend architecture.
 
@@ -19,7 +19,7 @@ Passionate about building scalable web applications and learning modern backend 
 - LinkedIn: https://www.linkedin.com/in/pawan-thakuni-390a2324b/
 - Twitter: https://x.com/PThakuni
 - GitHub: github.com/pawan-thakuni-au45
-- Email: thakunipawangmail.com
+- Email: thakunipawan@gmail.com
   
 ## 🛠️ Tech Stack
 
