@@ -1,70 +1,18 @@
+# Hi 👋 I'm Pawan Thakuni
 
-<h1 align="center">Hi 👋, I'm Pawan Thakuni</h1>
+🚀 Full Stack Developer
 
-<h3 align="center">
-Full Stack Developer | React | Next.js | TypeScript | Node.js | PostgreSQL | Docker | AWS
-</h3>
+React • Next.js • TypeScript • Node.js • PostgreSQL • MongoDB • Docker • AWS
 
-<p align="center">
-Building modern web applications and learning scalable backend systems.
-</p>
+Passionate about building scalable web applications and learning modern backend architecture.
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
 
-### Frontend
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- HTML5
-- CSS3
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- WebSockets
-
-### Databases
-- MongoDB
-- PostgreSQL
-- MySQL
-- Neon Database
-
-- Docker
-- Nginx
-- AWS
-
-### Tools
-- Git
-- GitHub
-- Postman
-- VS Code
-
-## 💻 Featured Projects
-
-### 🎨 Excalidraw Clone
-Real-time collaborative whiteboard using:
-- Next.js
-- TypeScript
-- WebSockets
-- Canvas
-- http
-
-### 🎬 MovieGPT
-Movie recommendation platform using:
-- React
-- TMDB API
-- Gemini API
-
-### 📝 Medium Clone
-Full-stack blogging platform with:
-- React
-- Node.js
-- PostgreSQL
-- Prisma
-
+- Full Stack Developer
+- Building projects with React, Next.js, Node.js and TypeScript
+- Experience with PostgreSQL, MySQL, MongoDB and NeonDB
+- Familiar with Docker, AWS and Nginx deployment
+- Currently looking for Full Stack Developer opportunities
 
 ## 🌐 Connect With Me
 
@@ -72,8 +20,41 @@ Full-stack blogging platform with:
 - Twitter: https://x.com/PThakuni
 - GitHub: github.com/pawan-thakuni-au45
 - Email: thakunipawangmail.com
+  
+## 🛠️ Tech Stack
 
+![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,mysql,docker,aws,nginx,git,github,tailwind,vscode)
 
+## 🚀 Featured Projects
+
+### Excalidraw Clone
+Real-time collaborative whiteboard built using Canvas API, WebSockets and TypeScript.
+
+🔗 Live Demo
+🔗 GitHub
+
+---
+
+### Medium Clone
+Full-stack blogging platform with PostgreSQL, Prisma and JWT authentication.
+
+🔗 Live Demo
+🔗 GitHub
+
+---
+
+### MovieGPT
+AI-powered movie recommendation application.
+
+🔗 Live Demo
+🔗 GitHub
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=pawan-thakuni-au45&show_icons=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan-thakuni-au45)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-thakuni-au45&layout=compact)
 
 <p align="center">
   <img src="banner.png" />
