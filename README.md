@@ -25,40 +25,10 @@ Passionate about building scalable web applications and learning modern backend 
 
 ![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgres,mysql,docker,aws,nginx,git,github,tailwind,vscode)
 
-## 🚀 Featured Projects
 
-### Excalidraw Clone
-Real-time collaborative whiteboard built using Canvas API, WebSockets and TypeScript.
 
-🔗 Live Demo
-🔗 GitHub
 
----
 
-### Medium Clone
-Full-stack blogging platform with PostgreSQL, Prisma and JWT authentication.
-
-🔗 Live Demo
-🔗 GitHub
-
----
-
-### MovieGPT
-AI-powered movie recommendation application.
-
-🔗 Live Demo
-🔗 GitHub
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=pawan-thakuni-au45&show_icons=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawan-thakuni-au45)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan-thakuni-au45&layout=compact)
-
-<p align="center">
-  <img src="banner.png" />
-</p>
 
 <!--
 **pawan-thakuni-au45/pawan-thakuni-au45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
